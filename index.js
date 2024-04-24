@@ -13,3 +13,4 @@ document.getElementById('about').onclick = function() {
 
     
   }
+  console.log("isken");
